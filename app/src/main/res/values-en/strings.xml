@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Medicine App</string>
+    <string name="registro_medicamento">Medicine Registration</string>
+    <string name="medicamento">Medicine</string>
+    <string name="dosis">Dosage</string>
+    <string name="horario">Schedule</string>
+    <string name="periodicidad">Frequency</string>
+    <string name="tipo">Type</string>
+    <string name="mg">mg</string>
+    <string name="pastillas">pills</string>
+    <string name="ml">ml</string>
+    <string name="guardar">Save</string>
+    <string name="seleccionar_hora">Select Time</string>
+    <string name="tipo_oral">ORAL</string>
+    <string name="tipo_topico">TOPICAL</string>
+    <string name="tipo_inhalado">INHALED</string>
+    <string name="cada">Every</string>
+    <string name="aceptar">Accept</string>
+    <string name="cancelar">Cancel</string>
+    <string name="medicine_list">Medicine List</string>
+</resources>
